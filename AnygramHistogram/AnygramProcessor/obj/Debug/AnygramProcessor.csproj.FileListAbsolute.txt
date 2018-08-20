@@ -1,0 +1,17 @@
+C:\Projects\test\BigramProcessor\bin\Debug\BigramProcessor.dll
+C:\Projects\test\BigramProcessor\bin\Debug\BigramProcessor.pdb
+C:\Projects\test\BigramProcessor\obj\Debug\BigramProcessor.dll
+C:\Projects\test\BigramProcessor\obj\Debug\BigramProcessor.pdb
+C:\Projects\test\AnygramProcessor\bin\Debug\AnygramProcessor.dll
+C:\Projects\test\AnygramProcessor\bin\Debug\AnygramProcessor.pdb
+C:\Projects\test\AnygramProcessor\obj\Debug\AnygramProcessor.dll
+C:\Projects\test\AnygramProcessor\obj\Debug\AnygramProcessor.pdb
+C:\Projects\test\AnygramProcessor\obj\Debug\AnygramProcessor.csprojResolveAssemblyReference.cache
+C:\VS\BigramHistogram\AnygramProcessor\bin\Debug\AnygramProcessor.dll
+C:\VS\BigramHistogram\AnygramProcessor\bin\Debug\AnygramProcessor.pdb
+C:\VS\BigramHistogram\AnygramProcessor\obj\Debug\AnygramProcessor.dll
+C:\VS\BigramHistogram\AnygramProcessor\obj\Debug\AnygramProcessor.pdb
+C:\VS\AnygramHistogram\AnygramProcessor\bin\Debug\AnygramProcessor.dll
+C:\VS\AnygramHistogram\AnygramProcessor\bin\Debug\AnygramProcessor.pdb
+C:\VS\AnygramHistogram\AnygramProcessor\obj\Debug\AnygramProcessor.dll
+C:\VS\AnygramHistogram\AnygramProcessor\obj\Debug\AnygramProcessor.pdb

@@ -1,0 +1,5 @@
+C:\Projects\test\BigramProcessor\bin\Debug\BigramProcessor.dll
+C:\Projects\test\BigramProcessor\bin\Debug\BigramProcessor.pdb
+C:\Projects\test\BigramProcessor\obj\Debug\BigramProcessor.dll
+C:\Projects\test\BigramProcessor\obj\Debug\BigramProcessor.pdb
+C:\Projects\test\BigramProcessor\obj\Debug\BigramProcessor.csprojResolveAssemblyReference.cache
