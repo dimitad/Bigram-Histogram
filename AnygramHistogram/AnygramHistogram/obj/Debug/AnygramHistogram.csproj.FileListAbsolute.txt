@@ -1,0 +1,16 @@
+C:\VS\BigramHistogram\BigramHistogram\bin\Debug\BigramHistogram.exe.config
+C:\VS\BigramHistogram\BigramHistogram\bin\Debug\BigramHistogram.exe
+C:\VS\BigramHistogram\BigramHistogram\bin\Debug\BigramHistogram.pdb
+C:\VS\BigramHistogram\BigramHistogram\bin\Debug\AnygramProcessor.dll
+C:\VS\BigramHistogram\BigramHistogram\bin\Debug\AnygramProcessor.pdb
+C:\VS\BigramHistogram\BigramHistogram\obj\Debug\AnygramHistogram.csprojResolveAssemblyReference.cache
+C:\VS\BigramHistogram\BigramHistogram\obj\Debug\BigramHistogram.exe
+C:\VS\BigramHistogram\BigramHistogram\obj\Debug\BigramHistogram.pdb
+C:\VS\AnygramHistogram\AnygramHistogram\bin\Debug\AnygramHistogram.exe.config
+C:\VS\AnygramHistogram\AnygramHistogram\bin\Debug\AnygramHistogram.exe
+C:\VS\AnygramHistogram\AnygramHistogram\bin\Debug\AnygramHistogram.pdb
+C:\VS\AnygramHistogram\AnygramHistogram\bin\Debug\AnygramProcessor.dll
+C:\VS\AnygramHistogram\AnygramHistogram\bin\Debug\AnygramProcessor.pdb
+C:\VS\AnygramHistogram\AnygramHistogram\obj\Debug\AnygramHistogram.csprojResolveAssemblyReference.cache
+C:\VS\AnygramHistogram\AnygramHistogram\obj\Debug\AnygramHistogram.exe
+C:\VS\AnygramHistogram\AnygramHistogram\obj\Debug\AnygramHistogram.pdb
